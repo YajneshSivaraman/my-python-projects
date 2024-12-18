@@ -1,0 +1,31 @@
+b = []
+a = ["pencil", "pen", "eraser"]
+n = 3
+
+
+def bill(n, b):
+    for i in range(n):
+        c = input("item:")
+        b.append(c)
+    print(b)
+    d = input("y/n")
+    if d == 'y':
+        n = int(input("how many elements"))
+        return bill(n, b)
+    elif d == 'n':
+        return b
+
+
+f = bill(n, b)
+q = 0
+w = 0
+e = 0.
+for i in f:
+    if i == 'pen':
+        q += 1
+    elif i == 'pencil':
+        w += 1
+    elif i == 'eraser':
+        e += 1
+d = (q * 10) + (w * 5) + (e * 2)
+print(d)
