@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2ea273-acbe-42ee-86ba-c7c75460ac46" name="Changes" comment="modified">
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Copy from one file to another file/Copy file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Copy from one file to another file/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Copy from one file to another file/sample1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Counting number of words in a string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Exchage vlaue of two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Exponentiation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Factorial Using Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Frequency of a word in a file/Frequency of words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Frequency of a word in a file/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Insertion Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Maximum in a list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Pyramid pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/Selection Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Yajnesh python/students' mark statement.py" afterDir="false" />
+    <list default="true" id="4e2ea273-acbe-42ee-86ba-c7c75460ac46" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/Yajnesh python/Copy from one file to another file/copy file method 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Yajnesh python/Frequency of a word in a file/Frquency of all words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,11 +60,13 @@
     "Python.Exponentiation.executor": "Run",
     "Python.Factorial Using Recursion.executor": "Run",
     "Python.Frequency of words.executor": "Run",
+    "Python.Frquency of all words.executor": "Run",
     "Python.Insertion Sort.executor": "Run",
     "Python.Maximum in a list.executor": "Run",
     "Python.Pyramid pattern.executor": "Run",
     "Python.Reverse a number.executor": "Run",
     "Python.Selection Sort.executor": "Run",
+    "Python.copy file method 2.executor": "Run",
     "Python.distance between two points.executor": "Run",
     "Python.gcd.executor": "Run",
     "Python.histogram.executor": "Run",
@@ -126,12 +117,29 @@
       <option name="project" value="LOCAL" />
       <updated>1734506148690</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1734519161235</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734519161235</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1734519243523</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734519243523</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit -m &quot;histogram&quot;" />
     <MESSAGE value="modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
