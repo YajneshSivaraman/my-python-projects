@@ -1,0 +1,5 @@
+This is a sample file to check the frequency of a given word in the file
+cat cat cat cat
+dog dog dog
+cake
+a a a a

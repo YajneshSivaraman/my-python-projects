@@ -1,0 +1,7 @@
+f=open("sample.txt","r")
+o=open("sample1.txt","w")
+c1=f.read()
+o.write(c1)
+print("copied")
+f.close()
+o.close()
